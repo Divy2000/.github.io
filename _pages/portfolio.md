@@ -50,23 +50,6 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Developed and tested a Neural Network AI model using 2D and 3D CNNs to detect human presence, achieving **98%** accuracy.
 - Contributed to the development of a smart campus solution aimed at monitoring and managing crowd density in campus areas.
 
-## Pore Pressure Gradient Prediction
-
-**Skills:** Machine Learning &#124; Deep Learning &#124; Data Visualization
-
-**Project Overview:** <br>
-- Utilized machine learning and deep learning to forecast Pore Pressure Gradient (PPG) for optimal oil well drilling with an **RMSE of 0.15**.
-- Validated model predictions, ensuring accuracy and practical applicability minimizing the need for dynamite blasts.
-- Fine-tuned various regression and deep learning models, successfully selecting XGBoost for superior prediction accuracy and efficiency.
-
-<!-- ## Material Search Engine
-
-**Skills:** Machine Learning &#124; Deep Learning
-
-**Project Overview:** <br>
-- Led my team to develop a classification model for material detection using d-values from X-ray diffraction data.
-- Trained and evaluated various classification models to identify material types based on 4 distinct d-values with ∼**100%** accuracy. -->
-
 ## Skin Disease Detector App - [Github Repository](https://github.com/Divy2000/Skin-Diseases-Detection-Hackbash)             
 
 **Skills:** Deep Learning &#124; Computer Vision &#124; Real-Time Classification &#124; Model Optimization &#124; Data Augmentation
@@ -85,6 +68,15 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Preprocessed and augmented Harvard dataset skin disease images with noise addition and model tuning for optimized performance.
 - Developed and exported a TensorFlow Lite model, integrated it into an Android app for mobile healthcare via smartphone camera.
 
+## Satellite Image Segmentation with SLIC and Canny
+
+**Skills:** SLIC &#124; Canny Edge Detection &#124; HOG &#124; GLCM &#124; K-Means Clustering &#124; Remote Sensing
+
+**Project Overview:** <br>
+- Combined **Simple Linear Iterative Clustering (SLIC)** and **Canny Edge Detection** for precise segmentation of satellite images.
+- Utilized **Histogram of Oriented Gradients (HOG)** and **Gray-Level Co-occurrence Matrix (GLCM)** to refine superpixels and enhance boundary precision.
+- Applied **K-means clustering** and **label mapping** to achieve accurate classification in remote sensing imagery.
+
 ## Gesture-Based Media Control System - [Github Repository](https://github.com/Divy2000/Gesture-Based-Media-Control-System)
 **Skills:** Deep Learning &#124; Data Augmentation
 
@@ -93,6 +85,23 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Applied preprocessing and augmentation techniques to enhance gesture recognition accuracy to **95%**.
 - Developed a gesture recognition model and integrated it with media controls for hands-free operation.
 
+## Material Search Engine
+
+**Skills:** Machine Learning &#124; Deep Learning
+
+**Project Overview:** <br>
+- Led my team to develop a classification model for material detection using d-values from X-ray diffraction data.
+- Trained and evaluated various classification models to identify material types based on 4 distinct d-values with ∼**100%** accuracy.
+
+## EV Battery RUL Predictor - [Github Repository](https://github.com/Divy2000/BatteryRULpredictor)
+
+**Skills:** Machine Learning &#124; Django &#124; NASA Prognostic Dataset &#124; Data Visualization &#124; Predictive Analytics
+
+**Project Overview:** <br>
+- Developed a machine learning solution to predict the **Remaining Useful Life (RUL)** of EV batteries.
+- Integrated prediction models into a **Django-based website** for user-friendly inputs and automated predictions.
+- Visualized battery degradation using the **NASA Prognostic dataset** to track performance over time.
+- Presented **real-time predictions** for battery performance and life expectancy, enhancing user decision-making on battery usage.
 
 ## Bus Number Recognition System - [Github Repository](https://github.com/Divy2000/Bus-Number-Recognition-System)
 
@@ -103,6 +112,15 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Set up a Google Cloud Compute server and integrated it with an Arduino client to capture and process images.
 - Integrated Arduino with Singapore government systems to fetch real-time bus arrival data and provide announcements.
 
+## Process Scheduling Visualization Application - [Github Repository](https://github.com/Divy2000/Scheduling-Algorithms-GUI)
+
+**Skills:** Java &#124; Data Visualization &#124; Process Scheduling &#124; GUI Development
+
+**Project Overview:** <br>
+- Developed a Java app to compute imoprtant metrics for process scheduling algorithms.
+- Implemented features for input and visualization of process data, including options to add, edit, and execute scheduling algorithms.
+- Generated visual graphs to represent calculated metrics, enhancing user understanding of scheduling performance.
+
 ## Student Drowsiness Detection System  - [Github Repository](https://github.com/Divy2000/Drowsiness-Detection/tree/main)
 
 **Skills:** Deep Learning &#124; Computer Vision &#124; Data Extraction &#124; Real-Time Prediction
@@ -112,14 +130,14 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Optimized data handling with a custom TensorFlow data generator for memory-efficient CNN training, achieving **93%** accuracy.
 - Implemented real-time prediction from live camera feeds or saved videos, displaying drowsiness detection results with overlay on the screen.
 
-## Process Scheduling Visualization Application - [Github Repository](https://github.com/Divy2000/Scheduling-Algorithms-GUI)
+## Pore Pressure Gradient Prediction
 
-**Skills:** Java &#124; Data Visualization &#124; Process Scheduling &#124; GUI Development
+**Skills:** Machine Learning &#124; Deep Learning &#124; Data Visualization
 
 **Project Overview:** <br>
-- Developed a Java app to compute imoprtant metrics for process scheduling algorithms.
-- Implemented features for input and visualization of process data, including options to add, edit, and execute scheduling algorithms.
-- Generated visual graphs to represent calculated metrics, enhancing user understanding of scheduling performance.
+- Utilized machine learning and deep learning to forecast Pore Pressure Gradient (PPG) for optimal oil well drilling with an **RMSE of 0.15**.
+- Validated model predictions, ensuring accuracy and practical applicability minimizing the need for dynamite blasts.
+- Fine-tuned various regression and deep learning models, successfully selecting XGBoost for superior prediction accuracy and efficiency.
 
 ## Node Classification in Graph Networks Using GNNs
 
