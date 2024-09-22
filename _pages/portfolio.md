@@ -112,6 +112,15 @@ The [GitHub repository](https://github.com/yatri1609/Music-Generation) contains 
 - Set up a Google Cloud Compute server and integrated it with an Arduino client to capture and process images.
 - Integrated Arduino with Singapore government systems to fetch real-time bus arrival data and provide announcements.
 
+## Super Resolution on Jetson Nano
+
+**Skills:** Super Resolution &#124; Machine Learning &#124; PyTorch &#124; C++ &#124; ARM-based Systems
+
+**Project Overview:** <br>
+- Implemented a super-resolution model on an ARM-based Jetson Nano device for real-time photobooth applications.
+- Quantized the model to optimize performance on the low-memory Jetson Nano, ensuring efficient computation.
+- Integrated C++ with PyTorch for faster inference and improved processing speed.
+
 ## Process Scheduling Visualization Application - [Github Repository](https://github.com/Divy2000/Scheduling-Algorithms-GUI)
 
 **Skills:** Java &#124; Data Visualization &#124; Process Scheduling &#124; GUI Development
